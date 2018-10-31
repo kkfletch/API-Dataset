@@ -14,14 +14,14 @@ The following are the fields and descriptions:
    9. authentication_model - indicates the type of authentication model the API uses.
    10. request_data_format
    11. response_data_format
-   12. api_version
+   12. api_version - current version of the API at the time of data collection
    13. api_num_sdks
    14. api_num_how_tos
    15. api_num_sample_codes
    16. api_num_libraries
-   17. api_num_developers
-   18. api_num_followers
-   19. api_num_comments
+   17. api_num_developers - number of developers who have used the API
+   18. api_num_followers - number of API followers
+   19. api_num_comments - number of user comments on the API
 
 When using this dataset, please cite the following paper:
 Fletcher K.K. (2018) A Quality-Based Web API Selection for Mashup Development Using Affinity Propagation. In: Ferreira J., Spanoudakis G., Ma Y., Zhang LJ. (eds) Services Computing – SCC 2018. SCC 2018. Lecture Notes in Computer Science, vol 10969. Springer, Cham
