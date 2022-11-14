@@ -35,7 +35,7 @@ When using this dataset, please cite the following paper(s):
   organization={IEEE}
 }
 ````
-
+````bibtex
 @inproceedings{fletcher2019quality,
   title={A quality-aware web api recommender system for mashup development},
   author={Fletcher, Kenneth K},
@@ -44,7 +44,8 @@ When using this dataset, please cite the following paper(s):
   year={2019},
   organization={Springer}
 }
-
+````
+````bibtex
 @inproceedings{fletcher2018quality,
   title={A quality-based web api selection for mashup development using affinity propagation},
   author={Fletcher, Kenneth K},
@@ -53,3 +54,4 @@ When using this dataset, please cite the following paper(s):
   year={2018},
   organization={Springer}
 }
+````
