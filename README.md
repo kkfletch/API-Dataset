@@ -23,5 +23,31 @@ The following are the fields and descriptions:
    18. api_num_followers - number of API followers
    19. api_num_comments - number of user comments on the API
 
-When using this dataset, please cite the following paper:
-Fletcher K.K. (2018) A Quality-Based Web API Selection for Mashup Development Using Affinity Propagation. In: Ferreira J., Spanoudakis G., Ma Y., Zhang LJ. (eds) Services Computing – SCC 2018. SCC 2018. Lecture Notes in Computer Science, vol 10969. Springer, Cham
+When using this dataset, please cite the following paper(s):
+
+@inproceedings{fletcher2019regularizing,
+  title={Regularizing matrix factorization with implicit user preference embeddings for web API recommendation},
+  author={Fletcher, Kenneth},
+  booktitle={2019 IEEE International Conference on Services Computing (SCC)},
+  pages={1--8},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{fletcher2019quality,
+  title={A quality-aware web api recommender system for mashup development},
+  author={Fletcher, Kenneth K},
+  booktitle={International Conference on Services Computing},
+  pages={1--15},
+  year={2019},
+  organization={Springer}
+}
+
+@inproceedings{fletcher2018quality,
+  title={A quality-based web api selection for mashup development using affinity propagation},
+  author={Fletcher, Kenneth K},
+  booktitle={International conference on services computing},
+  pages={153--165},
+  year={2018},
+  organization={Springer}
+}
