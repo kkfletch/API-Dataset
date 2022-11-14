@@ -25,6 +25,7 @@ The following are the fields and descriptions:
 
 When using this dataset, please cite the following paper(s):
 
+````bibtex
 @inproceedings{fletcher2019regularizing,
   title={Regularizing matrix factorization with implicit user preference embeddings for web API recommendation},
   author={Fletcher, Kenneth},
@@ -33,6 +34,7 @@ When using this dataset, please cite the following paper(s):
   year={2019},
   organization={IEEE}
 }
+````
 
 @inproceedings{fletcher2019quality,
   title={A quality-aware web api recommender system for mashup development},
